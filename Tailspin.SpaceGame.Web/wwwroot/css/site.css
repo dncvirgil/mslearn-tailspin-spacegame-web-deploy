@@ -15,8 +15,8 @@ section {
   border-bottom: 3px solid black; }
 
 .intro {
-  height: 350px;
-  background-color: #666;
+  height: 350px; 
+  background-color: green;
   background-image: url("/images/space-background.svg");
   background-size: 1440px;
   background-position: center top;
